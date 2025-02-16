@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/categories/categories/","updated":"2025-02-16T14:54:31.492-05:00"}
+{"dg-publish":true,"permalink":"/categories/categories/","updated":"2025-02-16T15:37:42.220-05:00"}
 ---
 
 # Categories
-The root category page of Mitharys
+This is the root category of the entire wiki and the place to start browsing its category tree.
 
 ## All Items
 ### A
