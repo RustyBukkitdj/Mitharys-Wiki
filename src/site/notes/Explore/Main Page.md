@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explore/main-page/","tags":["gardenEntry"],"updated":"2025-02-16T16:19:26.224-05:00"}
+{"dg-publish":true,"permalink":"/explore/main-page/","tags":["gardenEntry"],"updated":"2025-02-16T16:26:45.582-05:00"}
 ---
 
 > [!infobox|right wikipedia]+
@@ -15,8 +15,8 @@
 >  - [[History\|History]]
 >  - [[Categories/Deities\|Deities]]
 
-## You Meet At An Empass!
-<img src="Goblin King.png" style="float: left; width: 75px; height: 75px; margin: 5px 10px 0 0;">There appears to be a disgusting little green creature clamating you hand over all of your precious gold and treasure!
+## Eek A Creature!
+There appears to be a disgusting little green creature clamating you hand over all of your precious gold and treasure!
 
 "Gimme youse gould!"
 
