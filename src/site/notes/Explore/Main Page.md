@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explore/main-page/","tags":["gardenEntry"],"updated":"2025-02-16T16:26:45.582-05:00"}
+{"dg-publish":true,"permalink":"/explore/main-page/","updated":"2025-02-16T16:27:02.195-05:00"}
 ---
 
 > [!infobox|right wikipedia]+
