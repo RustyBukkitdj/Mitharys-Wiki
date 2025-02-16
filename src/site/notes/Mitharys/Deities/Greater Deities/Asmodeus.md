@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mitharys/deities/greater-deities/asmodeus/","updated":"2025-02-16T15:03:41.709-05:00"}
+{"dg-publish":true,"permalink":"/mitharys/deities/greater-deities/asmodeus/","updated":"2025-02-16T15:08:42.391-05:00"}
 ---
 
 > [!infobox|right wikipedia]+
